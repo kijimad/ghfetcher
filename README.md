@@ -1,4 +1,4 @@
-## Sun Sep 27 00:54:34 UTC 2026
+## Sun Oct  4 01:23:20 UTC 2026
 
 - https://github.com/kd-collective/8cc
 - https://github.com/kd-collective/8cc.go
@@ -287,8 +287,12 @@
 - https://github.com/kd-collective/ob-elixir
 - https://github.com/kd-collective/octocov
 - https://github.com/kd-collective/octocovs
+- https://github.com/kd-collective/opamp-go
 - https://github.com/kd-collective/open-junk-file
 - https://github.com/kd-collective/opentelemetry-go
+- https://github.com/kd-collective/opentelemetry-go-build-tools
+- https://github.com/kd-collective/opentelemetry-go-contrib
+- https://github.com/kd-collective/opentelemetry-operator
 - https://github.com/kd-collective/org-alert
 - https://github.com/kd-collective/org-auto-expand
 - https://github.com/kd-collective/org-brain
